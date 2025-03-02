@@ -6,7 +6,7 @@ services:
       VERSION: "10"
       USERNAME: "Zuzzyyuu"
       PASSWORD: "VlqL123"
-      RAM_SIZE: "64G"
+      RAM_SIZE: "16G"
       CPU_CORES: "124"
       DISK_SIZE: "5000G"
     devices:
